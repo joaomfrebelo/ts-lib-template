@@ -1,0 +1,26 @@
+{
+  "name": "joaomfrebelo/ts-lib-template",
+  "version": "1.0.0",
+  "decription": "A TS library to ...",
+  "main": "lib/commonjs/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": "git",
+  "url": "git.https://github.com/joaomfrebelo/ts-lib-template.git",
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "TypeScript",
+    "Librarry"
+  ],
+  "author": "joaomfrebelo@gmail.com",
+  "homepage": "https://github.com/joaomfrebelo/ts-lib-template",
+  "dependencies": {
+  }
+}
